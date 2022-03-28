@@ -1,0 +1,2 @@
+# EticaretApp
+Bu bir denemedir.
